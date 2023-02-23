@@ -12,6 +12,20 @@
 
 </details>
 
+* [Magisk](https://github.com/topjohnwu/Magisk/releases/latest)
+
+<details><summary>Details</summary>
+
+> Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 5.0.
+Some highlight features:
+>
+> * MagiskSU: Provide root access for applications
+> * Magisk Modules: Modify read-only partitions by installing modules
+> * MagiskBoot: The most complete tool for unpacking and repacking Android boot images
+> * Zygisk: Run code in every Android applications' processes
+
+</details>
+
 * [copy-partitions-20220613-signed.zip](https://mirrorbits.lineageos.org/tools/copy-partitions-20220613-signed.zip)
 
 <details><summary>Details</summary>
@@ -35,20 +49,6 @@
 > The Google apps packages are **not supported** in any way by LineageOS.
 >
 > source: [Google apps - LineageOS Wiki](https://wiki.lineageos.org/gapps)
-
-</details>
-
-* [Magisk](https://github.com/topjohnwu/Magisk/releases/latest)
-
-<details><summary>Details</summary>
-
-> Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 5.0.
-Some highlight features:
->
-> * MagiskSU: Provide root access for applications
-> * Magisk Modules: Modify read-only partitions by installing modules
-> * MagiskBoot: The most complete tool for unpacking and repacking Android boot images
-> * Zygisk: Run code in every Android applications' processes
 
 </details>
 
