@@ -2,6 +2,16 @@
 
 ## Android
 
+### General
+
+* [ADB](https://developer.android.com/studio/releases/platform-tools#downloads)
+
+<details><summary>Details</summary>
+
+> Android SDK Platform-Tools is a component for the Android SDK. It includes tools that interface with the Android platform, primarily [`adb`](https://developer.android.com/studio/command-line/adb) and [`fastboot`](https://android.googlesource.com/platform/system/core/+/master/fastboot/#fastboot).
+
+</details>
+
 * [copy-partitions-20220613-signed.zip](https://mirrorbits.lineageos.org/tools/copy-partitions-20220613-signed.zip)
 
 <details><summary>Details</summary>
@@ -13,8 +23,6 @@
 > In some cases, the inactive slot can be unpopulated or contain much older firmware than the active slot, leading to various issues including a potential hard-brick. We can ensure none of that will happen by copying the contents of the active slot to the inactive slot.
 
 </details>
-
-
 
 * [MindTheGapps](https://androidfilehost.com/?w=files&flid=322935)
 
@@ -51,6 +59,8 @@ Some highlight features:
 > An android OTA payload dumper written in Go.
 
 </details>
+
+### Motorola-specific
 
 * [motorola_flash_xml](https://gitlab.com/ThomasHastings/motorola_flash_xml)
 
