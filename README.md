@@ -26,18 +26,6 @@ Some highlight features:
 
 </details>
 
-* [copy-partitions-20220613-signed.zip](https://mirrorbits.lineageos.org/tools/copy-partitions-20220613-signed.zip)
-
-<details><summary>Details</summary>
-
-> **Ensuring all firmware partitions are consistent**
->
-> NOTE: The steps below only need to be run once per device.
->
-> In some cases, the inactive slot can be unpopulated or contain much older firmware than the active slot, leading to various issues including a potential hard-brick. We can ensure none of that will happen by copying the contents of the active slot to the inactive slot.
-
-</details>
-
 * [MindTheGapps](https://androidfilehost.com/?w=files&flid=322935)
 
 <details><summary>Details</summary>
@@ -57,6 +45,18 @@ Some highlight features:
 <details><summary>Details</summary>
 
 > An android OTA payload dumper written in Go.
+
+</details>
+
+* [copy-partitions-20220613-signed.zip](https://mirrorbits.lineageos.org/tools/copy-partitions-20220613-signed.zip)
+
+<details><summary>Details</summary>
+
+> **Ensuring all firmware partitions are consistent**
+>
+> NOTE: The steps below only need to be run once per device.
+>
+> In some cases, the inactive slot can be unpopulated or contain much older firmware than the active slot, leading to various issues including a potential hard-brick. We can ensure none of that will happen by copying the contents of the active slot to the inactive slot.
 
 </details>
 
