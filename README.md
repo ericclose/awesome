@@ -71,7 +71,7 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 
 </details>
 
-## General
+## Tools
 
 * [rescuezilla](https://github.com/rescuezilla/rescuezilla/releases/latest)
 
@@ -82,4 +82,27 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 > Rescuezilla is an easy-to-use disk cloning and imaging application that's fully compatible with Clonezilla — the industry-standard trusted by tens of millions.
 >
 > Disk imaging is the process of making a backup of your computer's hard drive which is managed as files stored on an external hard drive, and 'disk cloning' is the process of making a direct copy without needing a third drive for temporary storage.
+
+</details>
+
+---
+
+## Media
+
+* [BBDown](https://github.com/nilaoda/BBDown/releases/latest)
+
+<details><summary>Details</summary>
+
+> 一款命令行式哔哩哔哩下载器. Bilibili Downloader.
+
+</details>
+
+* [Bili.Uwp](https://github.com/Richasy/Bili.Uwp/releases/latest)
+
+<details><summary>Details</summary>
+
+> 哔哩 是一款 哔哩哔哩 的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 桌面系统以及版本号在 22000 以上的 XBOX。主打设计和易用性。
+>
+> 将链接 `ms-windows-store://pdp/?productid=9mvn4nslt150` 复制到浏览器地址栏打开，从 Microsoft Store 下载。
+
 </details>
