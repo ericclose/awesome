@@ -70,3 +70,16 @@ Some highlight features:
 The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/Motorola-XML-To-Batch-Script), but it seemed not to work for my Edge 20 Pro. The fastboot-related files are taken from that repo.
 
 </details>
+
+## General
+
+* [rescuezilla](https://github.com/rescuezilla/rescuezilla/releases/latest)
+
+<details><summary>Details</summary>
+
+> rescuezilla -- The Swiss Army Knife of System Recovery
+>
+> Rescuezilla is an easy-to-use disk cloning and imaging application that's fully compatible with Clonezilla — the industry-standard trusted by tens of millions.
+>
+> Disk imaging is the process of making a backup of your computer's hard drive which is managed as files stored on an external hard drive, and 'disk cloning' is the process of making a direct copy without needing a third drive for temporary storage.
+</details>
