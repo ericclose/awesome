@@ -4,7 +4,7 @@
 
 ### General
 
-* [ADB](https://developer.android.com/studio/releases/platform-tools#downloads)
+* [ADB](https://developer.android.com/studio/releases/platform-tools#downloads) -- Android Debug Bridge
 
 <details><summary>Details</summary>
 
@@ -12,7 +12,7 @@
 
 </details>
 
-* [Magisk](https://github.com/topjohnwu/Magisk/releases/latest)
+* [Magisk](https://github.com/topjohnwu/Magisk/releases/latest) -- Root and modules Manager
 
 <details><summary>Details</summary>
 
@@ -26,7 +26,7 @@ Some highlight features:
 
 </details>
 
-* [MindTheGapps](https://androidfilehost.com/?w=files&flid=322935)
+* [MindTheGapps](https://androidfilehost.com/?w=files&flid=322935) -- third-party GApps distribution
 
 <details><summary>Details</summary>
 
@@ -40,7 +40,7 @@ Some highlight features:
 
 </details>
 
-* [payload-dumper-go](https://github.com/ssut/payload-dumper-go/releases/latest)
+* [payload-dumper-go](https://github.com/ssut/payload-dumper-go/releases/latest) -- Android OTA payload dumper
 
 <details><summary>Details</summary>
 
@@ -48,7 +48,7 @@ Some highlight features:
 
 </details>
 
-* [copy-partitions-20220613-signed.zip](https://mirrorbits.lineageos.org/tools/copy-partitions-20220613-signed.zip)
+* [copy-partitions-20220613-signed.zip](https://mirrorbits.lineageos.org/tools/copy-partitions-20220613-signed.zip) -- Ensure partitions are consistent
 
 <details><summary>Details</summary>
 
@@ -62,7 +62,7 @@ Some highlight features:
 
 ### Motorola-specific
 
-* [motorola_flash_xml](https://gitlab.com/ThomasHastings/motorola_flash_xml)
+* [motorola_flash_xml](https://gitlab.com/ThomasHastings/motorola_flash_xml) -- Convert Motorola servicefile.xml to fastboot script
 
 <details><summary>Details</summary>
 
@@ -71,17 +71,26 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 
 </details>
 
+---
+
 ## Tools
 
-* [rescuezilla](https://github.com/rescuezilla/rescuezilla/releases/latest)
+* [rescuezilla](https://github.com/rescuezilla/rescuezilla/releases/latest) -- The Swiss Army Knife of System Recovery
 
 <details><summary>Details</summary>
 
-> rescuezilla -- The Swiss Army Knife of System Recovery
->
+
 > Rescuezilla is an easy-to-use disk cloning and imaging application that's fully compatible with Clonezilla — the industry-standard trusted by tens of millions.
 >
 > Disk imaging is the process of making a backup of your computer's hard drive which is managed as files stored on an external hard drive, and 'disk cloning' is the process of making a direct copy without needing a third drive for temporary storage.
+
+</details>
+
+* [Tabby](https://github.com/Eugeny/tabby/releases/latest) -- A terminal for a more modern age
+
+<details><summary>Details</summary>
+ 
+ > Tabby (formerly Terminus) is a highly configurable terminal emulator, SSH and serial client for Windows, macOS and Linux
 
 </details>
 
@@ -89,7 +98,7 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 
 ## Media
 
-* [BBDown](https://github.com/nilaoda/BBDown/releases/latest)
+* [BBDown](https://github.com/nilaoda/BBDown/releases/latest) -- Bilibili Downloader
 
 <details><summary>Details</summary>
 
@@ -97,12 +106,20 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 
 </details>
 
-* [Bili.Uwp](https://github.com/Richasy/Bili.Uwp/releases/latest)
+* [Bili.Uwp](https://github.com/Richasy/Bili.Uwp/releases/latest) -- third-party Bilibili UWP app
 
 <details><summary>Details</summary>
 
 > 哔哩 是一款 哔哩哔哩 的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 桌面系统以及版本号在 22000 以上的 XBOX。主打设计和易用性。
 >
 > 将链接 `ms-windows-store://pdp/?productid=9mvn4nslt150` 复制到浏览器地址栏打开，从 Microsoft Store 下载。
+
+</details>
+
+* [Captura](https://github.com/MathewSachin/Captura/releases/latest) -- Screen recorder
+
+<details><summary>Details</summary>
+ 
+ > Capture Screen, WebCam, Audio, Cursor, Mouse Clicks and Keystrokes.
 
 </details>
