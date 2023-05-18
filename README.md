@@ -130,7 +130,7 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 
 ### Browser Extension
 
-* [Stylus](https://github.com/openstyles/stylus#releases) -- user-style manager
+* [Stylus](https://github.com/openstyles/stylus#releases) -- An open source userscript manager
 
 <details><summary>Details</summary>
  
@@ -138,6 +138,16 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 
 * CSDN - 纯净版 by [otisqzhang](https://uso.kkx.one/style/183456)
 * 纯净版 CSDN by [codog-in-github](https://userstyles.world/style/4261/csdn)
+
+</details>
+
+* [Violentmonkey](https://github.com/violentmonkey/violentmonkey) -- An open source userscript manager
+
+<details><summary>Details</summary>
+ 
+ > Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
+
+* Custom aliyundrive by [invobzvr](https://cdn.jsdelivr.net/gh/invobzvr/invotoys.js@master/aliyundrive/source.user.js)
 
 </details>
 
