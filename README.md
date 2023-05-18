@@ -1,8 +1,10 @@
 # awesome
 
-## Android
+## Open Source
 
-### General
+### Android
+
+#### General
 
 * [ADB](https://developer.android.com/studio/releases/platform-tools#downloads) -- Android Debug Bridge
 
@@ -60,7 +62,7 @@ Some highlight features:
 
 </details>
 
-### Motorola-specific
+#### Motorola-specific
 
 * [motorola_flash_xml](https://gitlab.com/ThomasHastings/motorola_flash_xml) -- Convert Motorola servicefile.xml to fastboot script
 
@@ -73,7 +75,7 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 
 ---
 
-## Tools
+### Tools
 
 * [rescuezilla](https://github.com/rescuezilla/rescuezilla/releases/latest) -- The Swiss Army Knife of System Recovery
 
@@ -96,7 +98,7 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 
 ---
 
-## Media
+### Media
 
 * [BBDown](https://github.com/nilaoda/BBDown/releases/latest) -- Bilibili Downloader
 
@@ -123,3 +125,24 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
  > Capture Screen, WebCam, Audio, Cursor, Mouse Clicks and Keystrokes.
 
 </details>
+
+---
+
+### Browser Extension
+
+* [Stylus](https://github.com/openstyles/stylus#releases) -- user-style manager
+
+<details><summary>Details</summary>
+ 
+ > Redesign the web with Stylus, a user-style manager. Stylus allows you to easily install themes and skins for many popular sites.
+
+* CSDN - 纯净版 by [otisqzhang](https://uso.kkx.one/style/183456)
+* 纯净版 CSDN by [codog-in-github](https://userstyles.world/style/4261/csdn)
+
+</details>
+
+---
+
+## Closed Source
+
+To be completed...
