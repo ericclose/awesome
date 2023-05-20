@@ -106,6 +106,12 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 
 > 一款命令行式哔哩哔哩下载器. Bilibili Downloader.
 
+ command demo:
+ 
+```batch
+ BBDown --encoding-priority hevc -mt --work-dir "D:\Downloads" -p 1 "BV1rG411j7u9"
+ ```
+
 </details>
 
 * [Bili.Uwp](https://github.com/Richasy/Bili.Uwp/releases/latest) -- third-party Bilibili UWP app
