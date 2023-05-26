@@ -159,6 +159,28 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 
 ---
 
+### CLI tools
+
+* [zstd](https://github.com/facebook/zstd) -- Fast real-time compression algorithm
+
+<details><summary>Details</summary>
+ 
+ > Zstandard, or `zstd` as short version, is a fast lossless compression algorithm, targeting real-time compression scenarios at zlib-level and better compression ratios. It's backed by a very fast entropy stage, provided by [Huff0 and FSE library](https://github.com/Cyan4973/FiniteStateEntropy).
+
+demo:
+
+```bash
+# Use the -v (verbose) option to see detailed output about zstd’s progress as it compresses your file(s).
+tar -I 'zstd -v' -cvf example.tar.zst example/
+
+# To decompress a tar archive with the .tar.zst file extension, use the following command syntax.
+tar -I zstd -xvf example.tar.zst
+```
+
+</details>
+
+---
+
 ## Closed Source
 
 To be completed...
