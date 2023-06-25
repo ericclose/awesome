@@ -179,6 +179,22 @@ tar -I zstd -xvf example.tar.zst
 
 </details>
 
+* [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
+
+<details><summary>Details</summary>
+
+demo:
+
+```batch
+@echo off
+
+CloudflareST.exe -f "%~dp0ip.txt" -dn 20 -o "" -sl 5 -tl 300
+
+PAUSE
+```
+
+</details>
+
 ---
 
 ## Closed Source
