@@ -96,6 +96,15 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 
 </details>
 
+* [CPDT](https://github.com/maxim-saplin/CrossPlatformDiskTest/releases/latest) -- Cross Platform Disk Test
+
+<details><summary>Details</summary>
+ 
+ > Measuring storage performance (SSD, HDD, USB Flash etc.) and RAM speed across Windows, macOS and Android devices. Random and sequential throughput (read/write operations) is calculted in MB/s and can be compared in consistent and reliable manner between mobile and desktop platfotms and devices.
+
+</details>
+
+
 ---
 
 ### Media
