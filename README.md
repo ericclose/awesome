@@ -50,6 +50,14 @@ Some highlight features:
 
 </details>
 
+* [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) -- Read and generate barcodes
+
+<details><summary>Details</summary>
+
+> Barcode Scanner is a free and open-source app that allows you to read and generate barcodes. This app respects your privacy. It does not contain any trackers and does not collect any data.
+
+</details>
+
 * [copy-partitions-20220613-signed.zip](https://mirrorbits.lineageos.org/tools/copy-partitions-20220613-signed.zip) -- Ensure partitions are consistent
 
 <details><summary>Details</summary>
