@@ -220,6 +220,22 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 
 </details>
 
+* [AB Download Manager](https://github.com/amir1376/ab-download-manager/releases/latest) -- A Download Manager that speeds up your downloads
+
+<details><summary>Details</summary>
+ 
+ > AB Download Manager is a desktop app which lets you manage and organize your download files better than before
+
+</details>
+
+* [NETworkManager](https://github.com/BornToBeRoot/NETworkManager/releases/latest)
+
+<details><summary>Details</summary>
+ 
+ > A powerful tool for managing networks and troubleshoot network problems
+
+</details>
+
 
 ---
 
