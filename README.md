@@ -397,3 +397,13 @@ PAUSE
  > NetMonster is based on open-source library [NetMonster Core](https://github.com/mroczis/netmonster-core)
 
 </details>
+
+### Windows
+
+* [Disk Drill](http://www.cleverfiles.com/) -- The Premier Data Recovery Software
+
+<details><summary>Details</summary>
+ 
+ > Restore Data on Any Internal or External Storage Device, iOS, iPadOS, and Android
+
+</details>
