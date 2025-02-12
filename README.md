@@ -74,6 +74,14 @@ Some highlight features:
 
 </details>
 
+* [Obtainium](https://github.com/ImranR98/Obtainium/releases/latest) -- Get Android app updates straight from the source
+
+<details><summary>Details</summary>
+
+> Obtainium allows you to install and update apps directly from their releases pages, and receive notifications when new releases are made available.
+
+</details>
+
 * [copy-partitions-20220613-signed.zip](https://mirrorbits.lineageos.org/tools/copy-partitions-20220613-signed.zip) -- Ensure partitions are consistent
 
 <details><summary>Details</summary>
