@@ -58,6 +58,14 @@ Some highlight features:
 
 </details>
 
+* [AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) -- An unofficial FOSS client to Google Play
+
+<details><summary>Details</summary>
+
+> Aurora Store enables you to search and download apps from the official Google Play store. You can check app descriptions, screenshots, updates, reviews, and download the APK directly from Google Play to your device.
+
+</details>
+
 * [copy-partitions-20220613-signed.zip](https://mirrorbits.lineageos.org/tools/copy-partitions-20220613-signed.zip) -- Ensure partitions are consistent
 
 <details><summary>Details</summary>
