@@ -108,7 +108,7 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 
 <details><summary>Details</summary>
  
- > Tabby (formerly Terminus) is a highly configurable terminal emulator, SSH and serial client for Windows, macOS and Linux
+ > Tabby (formerly Terminus) is a highly configurable terminal emulator, SSH and serial client for Windows, macOS and Linux.
 
 </details>
 
@@ -120,6 +120,28 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 
 </details>
 
+
+---
+
+### Password/Authenticator Manager
+
+* https://github.com/bitwarden
+
+* [Bitwarden](https://github.com/bitwarden) -- Password Manager
+
+<details><summary>Details</summary>
+ 
+ > Bitwarden Password Manager enables businesses and individuals to protect their online data in the face of rising cybercrime threats. Use Bitwarden Password Manager to generate strong, unique passwords for every account you use online.
+
+</details>
+
+* [Ente Auth](https://github.com/ente-io/ente/releases/latest) -- Fully open source authenticators
+
+<details><summary>Details</summary>
+ 
+ > Ente is a service that provides a fully open source, end-to-end encrypted platform for you to store your data in the cloud without needing to trust the service provider. On top of this platform, we have built two apps so far: Ente Photos (an alternative to Apple and Google Photos) and Ente Auth (a 2FA alternative to the deprecated Authy).
+
+</details>
 
 ---
 
