@@ -82,6 +82,14 @@ Some highlight features:
 
 </details>
 
+* [URLCheck](https://github.com/TrianguloY/URLCheck/releases/latest)
+
+<details><summary>Details</summary>
+
+> URLCheck acts as an amazingly customizable and powerful intermediary when opening url links, allowing, among other things: to remove trackers, affiliate links, unnecessary elements, check Hosts, facilitating link holding and sharing, protecting against certain phishing techniques and many more...
+
+</details>
+
 * [copy-partitions-20220613-signed.zip](https://mirrorbits.lineageos.org/tools/copy-partitions-20220613-signed.zip) -- Ensure partitions are consistent
 
 <details><summary>Details</summary>
@@ -111,6 +119,34 @@ Some highlight features:
 <details><summary>Details</summary>
 
 > The modern and feature-rich F-Droid client for everyone!
+
+</details>
+
+---
+
+#### Network
+
+* [Vernet](https://github.com/TrianguloY/URLCheck/releases/latest) -- Network Analyzer and Monitoring Tool
+
+<details><summary>Details</summary>
+
+> Vernet - Network Analyzer and Monitoring Tool
+
+</details>
+
+* [VPN Hotspot](https://codeberg.org/zinga/VPNHotspot)
+
+<details><summary>Details</summary>
+
+> Connecting things to your VPN made simple. Share your VPN connection over hotspot or repeater. (**root required**)
+
+</details>
+
+* [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/releases/latest) -- Optimize your WiFi network
+
+<details><summary>Details</summary>
+
+> Optimize your WiFi network, by checking WiFi network status, signal strength and identifying crowded channels using WiFiAnalyzer
 
 </details>
 
