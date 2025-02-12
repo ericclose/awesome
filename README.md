@@ -66,6 +66,14 @@ Some highlight features:
 
 </details>
 
+* [Easy Watermark](https://github.com/rosuH/EasyWatermark/releases/latest)
+
+<details><summary>Details</summary>
+ 
+ > Securely, easily add a watermark to your sensitive photos. To prevent them from being leaked or exploited by the BAD GUY.
+
+</details>
+
 * [copy-partitions-20220613-signed.zip](https://mirrorbits.lineageos.org/tools/copy-partitions-20220613-signed.zip) -- Ensure partitions are consistent
 
 <details><summary>Details</summary>
@@ -124,6 +132,8 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 ---
 
 ### Password/Authenticator Manager
+
+* https://github.com/bitwarden
 
 * [Bitwarden](https://github.com/bitwarden) -- Password Manager
 
