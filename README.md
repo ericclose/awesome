@@ -90,6 +90,14 @@ Some highlight features:
 
 </details>
 
+* [Breezy Weather](https://github.com/breezy-weather/breezy-weather/releases/latest) -- A powerful, open-source Material Design weather app
+
+<details><summary>Details</summary>
+
+> Breezy Weather is a free and open-source Android weather app, forked from Geometric Weather, adding new features, sources, modernizing code, fixing bugs, updating dependencies for security reasons, etc., while keep having a smooth user and developer experience in mind.
+
+</details>
+
 * [copy-partitions-20220613-signed.zip](https://mirrorbits.lineageos.org/tools/copy-partitions-20220613-signed.zip) -- Ensure partitions are consistent
 
 <details><summary>Details</summary>
