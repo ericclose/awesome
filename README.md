@@ -245,6 +245,22 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 </details>
 
 
+* [DBeaver](https://github.com/dbeaver/dbeaver/releases/latest) -- Free universal database tool and SQL client
+
+<details><summary>Details</summary>
+ 
+ > Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports any database which has JDBC driver (which basically means - ANY database).
+
+</details>
+
+* [RustDesk](https://github.com/rustdesk/rustdesk/releases/latest)
+
+<details><summary>Details</summary>
+ 
+ > An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+</details>
+
 ---
 
 ### Password/Authenticator Manager
