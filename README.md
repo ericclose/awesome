@@ -236,6 +236,14 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 
 </details>
 
+* [Caesium Image Compressor](https://github.com/Lymphatus/caesium-image-compressor/releases/latest)
+
+<details><summary>Details</summary>
+ 
+ > Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats. You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.
+
+</details>
+
 
 ---
 
