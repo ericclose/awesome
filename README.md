@@ -210,6 +210,16 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 
 </details>
 
+* [SquirrelDisk](https://github.com/adileo/squirreldisk/releases/latest) -- Disk Usage Analysis Tool
+
+<details><summary>Details</summary>
+ 
+ > The easiest open source app you will ever use to detect huge files. Built with Rust + React (Tauri).
+ >
+ > Squirreldisk is an open source alternative to softwares like: WinDirStat, WizTree, TreeSize and DaisyDisk.
+
+</details>
+
 
 ---
 
