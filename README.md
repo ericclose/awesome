@@ -284,4 +284,14 @@ PAUSE
 
 ## Closed Source
 
-To be completed...
+### Android
+
+* [NetMonster](https://play.google.com/store/apps/details?id=cz.mroczis.netmonster) -- Mobile network monitoring app
+
+<details><summary>Details</summary>
+ 
+ > NetMonster collects, shows and stores information about nearby cell towers. Each tower has its unique set of identifiers and NetMonster will show you them. In select areas and countries precise locations are available.
+ >
+ > NetMonster is based on open-source library [NetMonster Core](https://github.com/mroczis/netmonster-core)
+
+</details>
