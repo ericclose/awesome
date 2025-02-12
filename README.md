@@ -136,6 +136,14 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 
 </details>
 
+* [LocalSend](https://github.com/localsend/localsend/releases/latest) -- An open-source cross-platform alternative to AirDrop
+
+<details><summary>Details</summary>
+ 
+ > LocalSend is a free, open-source app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection.
+
+</details>
+
 
 ---
 
