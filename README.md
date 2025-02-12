@@ -58,14 +58,6 @@ Some highlight features:
 
 </details>
 
-* [AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) -- An unofficial FOSS client to Google Play
-
-<details><summary>Details</summary>
-
-> Aurora Store enables you to search and download apps from the official Google Play store. You can check app descriptions, screenshots, updates, reviews, and download the APK directly from Google Play to your device.
-
-</details>
-
 * [Easy Watermark](https://github.com/rosuH/EasyWatermark/releases/latest)
 
 <details><summary>Details</summary>
@@ -93,6 +85,28 @@ Some highlight features:
 > In some cases, the inactive slot can be unpopulated or contain much older firmware than the active slot, leading to various issues including a potential hard-brick. We can ensure none of that will happen by copying the contents of the active slot to the inactive slot.
 
 </details>
+
+---
+
+#### App Store
+
+* [AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) -- An unofficial FOSS client to Google Play
+
+<details><summary>Details</summary>
+
+> Aurora Store enables you to search and download apps from the official Google Play store. You can check app descriptions, screenshots, updates, reviews, and download the APK directly from Google Play to your device.
+
+</details>
+
+* [Neo Store](https://github.com/NeoApplications/Neo-Store/releases/latest) -- A modern feature-rich F-Droid client
+
+<details><summary>Details</summary>
+
+> The modern and feature-rich F-Droid client for everyone!
+
+</details>
+
+---
 
 #### Motorola-specific
 
