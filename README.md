@@ -125,8 +125,6 @@ The original idea comes from [RootJunky on GitHub](https://github.com/rootjunky/
 
 ### Password/Authenticator Manager
 
-* https://github.com/bitwarden
-
 * [Bitwarden](https://github.com/bitwarden) -- Password Manager
 
 <details><summary>Details</summary>
