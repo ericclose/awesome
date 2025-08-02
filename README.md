@@ -375,7 +375,7 @@ demo:
 ```batch
 @echo off
 
-CloudflareST.exe -f "%~dp0ip.txt" -dn 20 -o "" -sl 5 -tl 300
+cfst.exe -f "%~dp0ip.txt" -dn 20 -o "" -sl 1 -tl 300
 
 PAUSE
 ```
