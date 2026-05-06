@@ -7,7 +7,7 @@
 | :--- | :--- | :--- |
 | **[ADB](https://developer.android.com/studio/releases/platform-tools#downloads)** | ![Windows] ![macOS] ![Linux] | Android 调试桥，系统开发与维护必备工具。 |
 | **[Magisk](https://github.com/topjohnwu/Magisk/releases/latest)** | ![Android] | Android 端的 Root 权限管理与模块化框架。 |
-| **[MindTheGapps](https://androidfilehost.com/?w=files&flid=322935)** | ![Android] | 第三方 Google Apps (GApps) 刷入包。 |
+| **[MindTheGapps](https://wiki.lineageos.org/gapps/)** | ![Android] | 第三方 Google Apps (GApps) 刷入包。 |
 | **[payload-dumper-go](https://github.com/ssut/payload-dumper-go/releases/latest)** | ![Windows] ![macOS] ![Linux] | 使用 Go 编写的 Android OTA payload 提取工具。 |
 | **[Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner)** | ![Android] | 尊重隐私的开源条码/二维码扫描与生成器。 |
 | **[Easy Watermark](https://github.com/rosuH/EasyWatermark/releases/latest)** | ![Android] | 离线、安全的照片加水印工具，保护敏感隐私。 |
